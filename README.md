@@ -2,9 +2,7 @@
 <html>
 <head>
 <style>
-p, {
-	
-}
+
 </style>
 </head>
 <body bgcolor="#0066FF">
